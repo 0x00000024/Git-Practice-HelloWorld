@@ -20,3 +20,6 @@ print("Hello World Update on Github branch")
 
 # Update on local
 print("Hello World Update on local Master branch")
+
+# Update 2 on Github only
+print("Hello World Update 2 on Github only")
